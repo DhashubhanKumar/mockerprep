@@ -26,7 +26,7 @@ Firebase	Handles authentication and real-time database
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/MockerPrep.git
+git clone https://github.com/DhashubhanKumar/mockerprep
 cd MockerPrep
 npm install
 ⚠️ Make sure to configure your .env.local with the necessary API keys for Firebase, Vapi, and Gemini.
